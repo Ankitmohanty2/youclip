@@ -15,6 +15,8 @@ A fun, open-source SaaS tool to snip your favorite moments from YouTube videos! 
 
 ## 🛠️ Prerequisites
 
+
+
 Make sure you have these installed:
 
 - [Bun](https://bun.sh/) (`bun` v1.2.7+)
